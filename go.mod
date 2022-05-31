@@ -6,7 +6,7 @@ require (
 	github.com/apache/arrow/go/arrow v0.0.0-20211022090848-03faa67fb219
 	github.com/bmatcuk/doublestar/v3 v3.0.0
 	github.com/emer/etable v1.0.45
-	github.com/ohkinozomu/go-call-edge v0.0.4
+	github.com/ohkinozomu/go-call-edge v0.0.5
 	github.com/pterm/pterm v0.12.41
 )
 
