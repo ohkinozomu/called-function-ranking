@@ -170,6 +170,8 @@ github.com/mitchellh/go-homedir v1.1.0/go.mod h1:SfyaCUpYCn1Vlf4IUYiD9fPX4A5wJrk
 github.com/mitchellh/mapstructure v1.1.2/go.mod h1:FVVH3fgwuzCH5S8UJGiWEs2h04kUh9fWfEaFds41c1Y=
 github.com/ohkinozomu/go-call-edge v0.0.4 h1:NwgpGtWuukYBWkK7pyFSBrrNqAVCD8laxveKH6ZXA+o=
 github.com/ohkinozomu/go-call-edge v0.0.4/go.mod h1:7Piu4RcPZ7woV5hgb+az2oOPNKQt3yvljJgFbZdnfgA=
+github.com/ohkinozomu/go-call-edge v0.0.5 h1:CEmJakZ7h5W/vhsV/2vL5tdFWxeIr6vZAv760qXQjJk=
+github.com/ohkinozomu/go-call-edge v0.0.5/go.mod h1:7Piu4RcPZ7woV5hgb+az2oOPNKQt3yvljJgFbZdnfgA=
 github.com/pelletier/go-toml v1.2.0/go.mod h1:5z9KED0ma1S8pY6P1sdut58dfprrGBbd/94hg7ilaic=
 github.com/phpdave11/gofpdf v1.4.2/go.mod h1:zpO6xFn9yxo3YLyMvW8HcKWVdbNqgIfOOp2dXMnm1mY=
 github.com/phpdave11/gofpdi v1.0.12/go.mod h1:vBmVV0Do6hSBHC8uKUQ71JGW+ZGQq74llk/7bXwjDoI=
