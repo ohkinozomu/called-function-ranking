@@ -7,10 +7,12 @@ require (
 	github.com/bmatcuk/doublestar/v3 v3.0.0
 	github.com/emer/etable v1.0.45
 	github.com/ohkinozomu/go-call-edge v0.0.5
-	github.com/pterm/pterm v0.12.41
+	github.com/pterm/pterm v0.12.42
 )
 
 require (
+	atomicgo.dev/cursor v0.1.1 // indirect
+	atomicgo.dev/keyboard v0.2.8 // indirect
 	github.com/BurntSushi/freetype-go v0.0.0-20160129220410-b763ddbfe298 // indirect
 	github.com/BurntSushi/graphics-go v0.0.0-20160129215708-b43f31a4a966 // indirect
 	github.com/BurntSushi/xgb v0.0.0-20210121224620-deaf085860bc // indirect
@@ -20,6 +22,7 @@ require (
 	github.com/anthonynsimon/bild v0.13.0 // indirect
 	github.com/atomicgo/cursor v0.0.1 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
+	github.com/containerd/console v1.0.3 // indirect
 	github.com/dlclark/regexp2 v1.4.0 // indirect
 	github.com/fatih/camelcase v1.0.0 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.0 // indirect
@@ -37,6 +40,7 @@ require (
 	github.com/iancoleman/strcase v0.2.0 // indirect
 	github.com/jinzhu/copier v0.3.2 // indirect
 	github.com/klauspost/compress v1.15.2 // indirect
+	github.com/lithammer/fuzzysearch v1.1.5 // indirect
 	github.com/mattn/go-runewidth v0.0.13 // indirect
 	github.com/pierrec/lz4/v4 v4.1.12 // indirect
 	github.com/rivo/uniseg v0.2.0 // indirect
