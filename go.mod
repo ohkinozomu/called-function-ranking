@@ -1,6 +1,6 @@
 module github.com/ohkinozomu/called-function-ranking
 
-go 1.18
+go 1.19
 
 require (
 	github.com/apache/arrow/go/arrow v0.0.0-20211022090848-03faa67fb219
