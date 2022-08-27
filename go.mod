@@ -7,7 +7,7 @@ require (
 	github.com/bmatcuk/doublestar/v3 v3.0.0
 	github.com/emer/etable v1.0.45
 	github.com/ohkinozomu/go-call-edge v0.0.5
-	github.com/pterm/pterm v0.12.42
+	github.com/pterm/pterm v0.12.45
 )
 
 require (
