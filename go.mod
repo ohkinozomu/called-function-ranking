@@ -6,7 +6,7 @@ require (
 	github.com/apache/arrow/go/arrow v0.0.0-20211022090848-03faa67fb219
 	github.com/bmatcuk/doublestar/v3 v3.0.0
 	github.com/emer/etable v1.0.45
-	github.com/ohkinozomu/go-call-edge v0.0.5
+	github.com/ohkinozomu/go-call-edge v0.0.6
 	github.com/pterm/pterm v0.12.49
 )
 
@@ -50,12 +50,12 @@ require (
 	github.com/xo/terminfo v0.0.0-20210125001918-ca9a967f8778 // indirect
 	golang.org/x/exp v0.0.0-20211216164055-b2b84827b756 // indirect
 	golang.org/x/image v0.0.0-20210628002857-a66eb6448b8d // indirect
-	golang.org/x/mod v0.6.0-dev.0.20220106191415-9b9b3d81d5e3 // indirect
-	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd // indirect
-	golang.org/x/sys v0.0.0-20220704084225-05e143d24a9e // indirect
-	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
-	golang.org/x/text v0.3.7 // indirect
-	golang.org/x/tools v0.1.10 // indirect
+	golang.org/x/mod v0.12.0 // indirect
+	golang.org/x/net v0.12.0 // indirect
+	golang.org/x/sys v0.10.0 // indirect
+	golang.org/x/term v0.10.0 // indirect
+	golang.org/x/text v0.11.0 // indirect
+	golang.org/x/tools v0.11.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220411194840-2f41105eb62f // indirect
 	gonum.org/v1/gonum v0.9.3 // indirect
 )
