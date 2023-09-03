@@ -3,7 +3,7 @@ module github.com/ohkinozomu/called-function-ranking
 go 1.19
 
 require (
-	github.com/apache/arrow/go/arrow v0.0.0-20211022090848-03faa67fb219
+	github.com/apache/arrow/go/arrow v6.0.0
 	github.com/bmatcuk/doublestar/v3 v3.0.0
 	github.com/emer/etable v1.0.45
 	github.com/ohkinozomu/go-call-edge v0.0.5
