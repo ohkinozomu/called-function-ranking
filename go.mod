@@ -1,18 +1,21 @@
 module github.com/ohkinozomu/called-function-ranking
 
-go 1.19
+go 1.21
+
+toolchain go1.23.1
 
 require (
 	github.com/apache/arrow/go/arrow v0.0.0-20211022090848-03faa67fb219
 	github.com/bmatcuk/doublestar/v3 v3.0.0
 	github.com/emer/etable v1.0.45
 	github.com/ohkinozomu/go-call-edge v0.0.5
-	github.com/pterm/pterm v0.12.49
+	github.com/pterm/pterm v0.12.79
 )
 
 require (
-	atomicgo.dev/cursor v0.1.1 // indirect
-	atomicgo.dev/keyboard v0.2.8 // indirect
+	atomicgo.dev/cursor v0.2.0 // indirect
+	atomicgo.dev/keyboard v0.2.9 // indirect
+	atomicgo.dev/schedule v0.1.0 // indirect
 	github.com/BurntSushi/freetype-go v0.0.0-20160129220410-b763ddbfe298 // indirect
 	github.com/BurntSushi/graphics-go v0.0.0-20160129215708-b43f31a4a966 // indirect
 	github.com/BurntSushi/xgb v0.0.0-20210121224620-deaf085860bc // indirect
@@ -34,28 +37,28 @@ require (
 	github.com/goki/pi v1.0.17 // indirect
 	github.com/goki/prof v0.0.0-20180502205428-54bc71b5d09b // indirect
 	github.com/google/flatbuffers v2.0.5+incompatible // indirect
-	github.com/gookit/color v1.5.2 // indirect
+	github.com/gookit/color v1.5.4 // indirect
 	github.com/gorilla/css v1.0.0 // indirect
 	github.com/h2non/filetype v1.1.1 // indirect
 	github.com/iancoleman/strcase v0.2.0 // indirect
 	github.com/jinzhu/copier v0.3.2 // indirect
 	github.com/klauspost/compress v1.15.2 // indirect
-	github.com/lithammer/fuzzysearch v1.1.5 // indirect
-	github.com/mattn/go-runewidth v0.0.13 // indirect
+	github.com/lithammer/fuzzysearch v1.1.8 // indirect
+	github.com/mattn/go-runewidth v0.0.15 // indirect
 	github.com/pierrec/lz4/v4 v4.1.12 // indirect
-	github.com/rivo/uniseg v0.2.0 // indirect
+	github.com/rivo/uniseg v0.4.4 // indirect
 	github.com/srwiley/rasterx v0.0.0-20210519020934-456a8d69b780 // indirect
 	github.com/srwiley/scanx v0.0.0-20190309010443-e94503791388 // indirect
-	github.com/stretchr/testify v1.8.0 // indirect
-	github.com/xo/terminfo v0.0.0-20210125001918-ca9a967f8778 // indirect
-	golang.org/x/exp v0.0.0-20211216164055-b2b84827b756 // indirect
+	github.com/stretchr/testify v1.8.4 // indirect
+	github.com/xo/terminfo v0.0.0-20220910002029-abceb7e1c41e // indirect
+	golang.org/x/exp v0.0.0-20220909182711-5c715a9e8561 // indirect
 	golang.org/x/image v0.0.0-20210628002857-a66eb6448b8d // indirect
-	golang.org/x/mod v0.6.0-dev.0.20220106191415-9b9b3d81d5e3 // indirect
-	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd // indirect
-	golang.org/x/sys v0.0.0-20220704084225-05e143d24a9e // indirect
-	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
-	golang.org/x/text v0.3.7 // indirect
-	golang.org/x/tools v0.1.10 // indirect
+	golang.org/x/mod v0.8.0 // indirect
+	golang.org/x/net v0.6.0 // indirect
+	golang.org/x/sys v0.16.0 // indirect
+	golang.org/x/term v0.16.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
+	golang.org/x/tools v0.6.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220411194840-2f41105eb62f // indirect
 	gonum.org/v1/gonum v0.9.3 // indirect
 )
