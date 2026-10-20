@@ -1,6 +1,6 @@
 module github.com/ohkinozomu/called-function-ranking
 
-go 1.19
+go 1.24
 
 require (
 	github.com/apache/arrow/go/arrow v0.0.0-20211022090848-03faa67fb219
@@ -39,7 +39,7 @@ require (
 	github.com/h2non/filetype v1.1.1 // indirect
 	github.com/iancoleman/strcase v0.2.0 // indirect
 	github.com/jinzhu/copier v0.3.2 // indirect
-	github.com/klauspost/compress v1.15.2 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/lithammer/fuzzysearch v1.1.5 // indirect
 	github.com/mattn/go-runewidth v0.0.13 // indirect
 	github.com/pierrec/lz4/v4 v4.1.12 // indirect
